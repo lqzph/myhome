@@ -48,7 +48,6 @@ a{
     opacity: 1;
     font-size: 50px;
     padding-left: 28%;
-    transition-delay: 0.5s;
 }
 .con_list{
      font-size: 16px;
@@ -62,12 +61,13 @@ a{
 .active .welecome div:nth-child(3){
     opacity: 1;
     padding-left: 34%;
+    transition-delay: 1s;
 
 }
 .active .welecome div:nth-child(4){
     opacity: 1;
     padding-left: 36%;
-    transition-delay: 1s;
+    transition-delay: 1.5s;
 }
 .active .welecome div:nth-child(5){
     opacity: 1;
@@ -276,10 +276,10 @@ a{
     padding-left:30%;
     color:#D82545;
 }
-#first_wrapper{
-    margin-left:5%;
-    width: 100%;
+.slide{
+    overflow: hidden;
 }
+
 
  .work_list{
      padding-right: 50px;
