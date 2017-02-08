@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="af1a06f4-b8ac-495e-8484-8d44d17a3a03" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/geren3 (1).jpg" afterPath="$PROJECT_DIR$/img/geren2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/geren3 (2).jpg" afterPath="$PROJECT_DIR$/img/geren3.jpg" />
     </list>
     <ignored path="myhome.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="492">
-              <caret line="401" column="55" selection-start-line="401" selection-start-column="55" selection-end-line="401" selection-end-column="55" />
+              <caret line="401" column="54" selection-start-line="401" selection-start-column="54" selection-end-line="401" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -260,12 +262,12 @@
       <updated>1486444154290</updated>
       <workItem from="1486444156541" duration="2266000" />
       <workItem from="1486452865227" duration="829000" />
-      <workItem from="1486524803208" duration="803000" />
+      <workItem from="1486524803208" duration="894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3898000" />
+    <option name="totallyTimeSpent" value="3989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -363,7 +365,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
-          <caret line="401" column="55" selection-start-line="401" selection-start-column="55" selection-end-line="401" selection-end-column="55" />
+          <caret line="401" column="54" selection-start-line="401" selection-start-column="54" selection-end-line="401" selection-end-column="54" />
           <folding />
         </state>
       </provider>
