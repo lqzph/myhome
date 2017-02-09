@@ -154,9 +154,11 @@ a{
     perspective:1500px;
     perspective-origin:  center bottom ;
 }
-
-
-
+@media screen and (min-width: 800px){
+    .lqimg{
+        overflow: hidden;
+    }
+}
 
 
 
